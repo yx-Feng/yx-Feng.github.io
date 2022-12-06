@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Series on yxFeng</title>
-    <link>http://localhost:1313/series/</link>
+    <link>https://yx-Feng.github.io/series/</link>
     <description>Recent content in Series on yxFeng</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 09 Aug 2022 15:38:30 +0800</lastBuildDate><atom:link href="http://localhost:1313/series/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 09 Aug 2022 15:38:30 +0800</lastBuildDate><atom:link href="https://yx-Feng.github.io/series/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Themes Guide</title>
-      <link>http://localhost:1313/series/themes-guide/</link>
+      <link>https://yx-Feng.github.io/series/themes-guide/</link>
       <pubDate>Tue, 09 Aug 2022 15:38:30 +0800</pubDate>
       
-      <guid>http://localhost:1313/series/themes-guide/</guid>
+      <guid>https://yx-Feng.github.io/series/themes-guide/</guid>
       <description></description>
     </item>
     
