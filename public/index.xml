@@ -6,7 +6,17 @@
     <description>Recent content on yxFeng</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 09 Aug 2022 15:38:30 +0800</lastBuildDate><atom:link href="https://yx-Feng.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 06 Dec 2022 18:22:40 +0800</lastBuildDate><atom:link href="https://yx-Feng.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>https://yx-Feng.github.io/posts/my-first-post/</link>
+      <pubDate>Tue, 06 Dec 2022 18:22:40 +0800</pubDate>
+      
+      <guid>https://yx-Feng.github.io/posts/my-first-post/</guid>
+      <description>IntroductionThis is bold text, and this is emphasized text.
+Visit the Hugo website!</description>
+    </item>
+    
     <item>
       <title>Puppet - Getting Started</title>
       <link>https://yx-Feng.github.io/posts/getting-started/</link>
