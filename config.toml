@@ -1,4 +1,4 @@
-baseURL = "http://localhost:1313"
+baseURL = "https://yx-Feng.github.io"
 title = "yxFeng"               # 对应主页正中间的标题
 theme = "puppet"
 
