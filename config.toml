@@ -1,0 +1,122 @@
+baseURL = "http://localhost:1313"
+title = "yxFeng"               # 对应主页正中间的标题
+theme = "puppet"
+
+copyright = ""
+paginate = 3
+languageCode = "en"
+defaultContentLanguage = "en"
+hasCJKLanguage = true
+enableInlineShortcodes = true
+enableEmoji = true
+# prevent build failures when using Hugo's Instagram shortcode due to deprecated Instagram API.
+# See https://github.com/gohugoio/hugo/issues/7228#issuecomment-714490456
+ignoreErrors = ["error-remote-getjson"]
+
+disqusShortname = ""
+googleAnalytics = ""
+
+[outputs]
+home = ["HTML", "JSON", "RSS"]
+
+# prevent build failures when using Hugo's template _internal/opengraph.html 
+[taxonomies]
+category = "categories"
+tag = "tags"
+series = "series"
+
+[markup]
+[markup.highlight]
+noClasses = true
+codeFences = true
+guessSyntax = true
+lineNos = true
+lineNumbersInTable = false
+style = "dracula"
+
+[markup.goldmark.renderer]
+unsafe = true
+
+# 配置菜单
+[menu]
+[[menu.main]]
+identifier = "home"
+name = "Home"
+url = "/"
+weight = -100
+[[menu.main]]
+identifier = "archive"
+name = "Archive"
+url = "/archive/"
+weight = 10
+[[menu.main]]
+identifier = "guide"
+name = "Guide"
+url = "/series/themes-guide/"
+weight = 20
+[[menu.main]]
+identifier = "about"
+name = "About"
+url = "/about/"
+weight = 50
+[[menu.main]]
+identifier = "github"
+name = "Github"
+url = "https://github.com/yx-Feng/yxfeng.github.io"
+weight = 100
+
+
+[params]
+author = "yxFeng"                              # 作者
+description = "不过是些许风霜罢了。" # 自我介绍
+keywords = "blog,developer,personal"
+img_home = "img/home-bg.jpg"     # 主页图片，在themes\puppet\static\img目录下面
+img_404 = "img/404-bg.jpg"            # 404图片
+
+useFaviconGenerator = true
+
+custom_js = []
+custom_css = [] # ["css/custom.css"]  Add your file to assets folder  [assets/css/custom.css]
+
+# 配置侧边栏
+[params.sidebar]
+enable = true
+gravatarEmail = ""
+# 可设置头像图片
+avatar = "img/avatar.jpg"
+bio = "a personal website"
+# 社交链接
+[params.social]
+twitter = "yx-Feng"
+facebook = "yx-Feng"
+zhihu = "yx-Feng"
+weibo = "yx-Feng"
+github = "yx-Feng"
+gitlab = "yx-Feng"
+linkedin = "yx-Feng"
+rss = true
+[params.social.mastodon]
+weight = 56
+icon = "fab fa-mastodon"
+format = "https://mastodon.social/%v"
+id = "yx-Feng"
+url = ""
+# 朋友
+[[params.friends]]
+name = "甲"
+url = "https://github.com/yx-Feng"
+[[params.friends]]
+name = "乙"
+url = "https://github.com/yx-Feng"
+
+# giscus是由GitHub Discussions驱动的评论系统，访客借助 GitHub 在你的网站上留下评论，无需数据库，数据均储存在GitHub Discussions中
+# See https://giscus.app/
+[params.giscus]
+enable = true
+repo = "roninro/hugo-theme-puppet"
+repo_id = "R_kgDOHuvyhw"
+category = "General"
+category_id = "DIC_kwDOHuvyh84CQjDo"
+input_position = "top"
+theme = "light_tritanopia"
+lang = "en"
