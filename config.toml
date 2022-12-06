@@ -62,7 +62,7 @@ weight = 50
 [[menu.main]]
 identifier = "github"
 name = "Github"
-url = "https://github.com/yx-Feng/yxfeng.github.io"
+url = "https://github.com/yx-Feng"
 weight = 100
 
 
