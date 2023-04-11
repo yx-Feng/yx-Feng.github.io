@@ -1,5 +1,5 @@
 baseURL = "https://yx-Feng.github.io"
-title = "Hello, world."               # 对应主页正中间的标题
+title = "Hello, World !"               # 对应主页正中间的标题
 theme = "puppet"
 
 copyright = ""
