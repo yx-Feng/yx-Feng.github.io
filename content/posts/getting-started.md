@@ -43,7 +43,6 @@ git submodule update --init --recursive
 
 That’s all, Puppet is ready to be used.
 
-
 ## Add Config Files
 
 For getting started, you can copy the `config.toml` file from the theme's exampleSite directory to the root directory of your site.

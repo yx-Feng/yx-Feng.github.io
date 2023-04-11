@@ -1,5 +1,5 @@
 baseURL = "https://yx-Feng.github.io"
-title = "yxFeng"               # 对应主页正中间的标题
+title = "Hello, World !"               # 对应主页正中间的标题
 theme = "puppet"
 
 copyright = ""
@@ -95,12 +95,6 @@ github = "yx-Feng"
 gitlab = "yx-Feng"
 linkedin = "yx-Feng"
 rss = true
-[params.social.mastodon]
-weight = 56
-icon = "fab fa-mastodon"
-format = "https://mastodon.social/%v"
-id = "yx-Feng"
-url = ""
 # 朋友
 [[params.friends]]
 name = "甲"

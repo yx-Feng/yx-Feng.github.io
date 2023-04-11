@@ -2,7 +2,7 @@
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/275ce227-7872-4314-8b54-5499ba237c18/deploy-status)](https://app.netlify.com/sites/hugo-theme-puppet/deploys)
 
-> Ported Theme of [Hux Blog](https://github.com/Huxpro/huxpro.github.io), Thank [Huxpro](https://github.com/Huxpro) for designing such a flawless theme.
+> Ported Theme of https://github.com/Huxpro/huxpro.github.io, Thank [Huxpro](https://github.com/Huxpro) for designing such a flawless theme.
 
 [Demo](https://hugo-theme-puppet.netlify.app/)
 
@@ -25,7 +25,6 @@
 - [x] Custom Favicon
 - [x] Custom Social Icons
 
-
 ## Installation
 
 ```bash
@@ -47,7 +46,6 @@ add `archive/_index.md` to your `content` folder. This file will be used as the 
 
 like the archive page, add `about/_index.md` to your `content` folder.
 
-
 ## Social Icons
 
 The default data of social links is located in [social.toml](assets/data/social.toml)
@@ -58,6 +56,7 @@ You can directly set your `id` to get a default social link icon
 [params.social]
 mastodon = "@xxxxx"
 ```
+
 Or You can set more options through a dict:
 
 ```toml

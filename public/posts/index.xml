@@ -1,20 +1,28 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on yxFeng</title>
+    <title>Posts on Hello, World !</title>
     <link>https://yx-Feng.github.io/posts/</link>
-    <description>Recent content in Posts on yxFeng</description>
+    <description>Recent content in Posts on Hello, World !</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 06 Dec 2022 18:22:40 +0800</lastBuildDate><atom:link href="https://yx-Feng.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 11 Apr 2023 14:38:33 +0800</lastBuildDate><atom:link href="https://yx-Feng.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My First Post</title>
-      <link>https://yx-Feng.github.io/posts/my-first-post/</link>
-      <pubDate>Tue, 06 Dec 2022 18:22:40 +0800</pubDate>
+      <title>Js_InterviewQuestions</title>
+      <link>https://yx-Feng.github.io/posts/js_interviewquestions/</link>
+      <pubDate>Tue, 11 Apr 2023 14:38:33 +0800</pubDate>
       
-      <guid>https://yx-Feng.github.io/posts/my-first-post/</guid>
-      <description>IntroductionThis is bold text, and this is emphasized text.
-Visit the Hugo website!</description>
+      <guid>https://yx-Feng.github.io/posts/js_interviewquestions/</guid>
+      <description>1.JavaScript中的数据类型共8种：Number、String、Boolean、Object、null、undefined、Bigi</description>
+    </item>
+    
+    <item>
+      <title>Css_InterviewQuestions</title>
+      <link>https://yx-Feng.github.io/posts/css_interviewquestions/</link>
+      <pubDate>Tue, 11 Apr 2023 14:23:03 +0800</pubDate>
+      
+      <guid>https://yx-Feng.github.io/posts/css_interviewquestions/</guid>
+      <description>1.盒模型(box model)所有HTML元素都可以看作盒子。它包括：margin(外边距)、border(边框)、padding(内边距)</description>
     </item>
     
     <item>
