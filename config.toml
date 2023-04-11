@@ -1,9 +1,9 @@
 baseURL = "https://yx-Feng.github.io"
-title = "Hello, World !"               # 对应主页正中间的标题
+title = "Hello, world."               # 对应主页正中间的标题
 theme = "puppet"
 
 copyright = ""
-paginate = 3
+paginate = 5
 languageCode = "en"
 defaultContentLanguage = "en"
 hasCJKLanguage = true
@@ -93,14 +93,13 @@ zhihu = "yx-Feng"
 weibo = "yx-Feng"
 github = "yx-Feng"
 gitlab = "yx-Feng"
-linkedin = "yx-Feng"
 rss = true
 # 朋友
 [[params.friends]]
-name = "甲"
+name = "C.C."
 url = "https://github.com/yx-Feng"
 [[params.friends]]
-name = "乙"
+name = "F.F."
 url = "https://github.com/yx-Feng"
 
 # giscus是由GitHub Discussions驱动的评论系统，访客借助 GitHub 在你的网站上留下评论，无需数据库，数据均储存在GitHub Discussions中
