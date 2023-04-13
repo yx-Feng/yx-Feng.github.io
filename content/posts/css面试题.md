@@ -32,4 +32,51 @@ css的权重指在样式冲突时，某一条样式被应用的优先级。
 
 ③将元素的position属性设置为absolute或fixed，然后将元素移动到屏幕外或者使其超出容器的范围之外，这样元素在页面上不可见，但仍然占用空间。
 
-## 5.
+## 5.Flex布局
+
+Flex是Flexible Box的缩写，意为弹性布局，用来为盒状模型提供最大的灵活性。
+
+任何一个容器都可以指定为 Flex 布局。
+
+```css
+.box{
+  display: flex;
+} 
+```
+
+行内元素也可以使用 Flex 布局。
+
+```
+.box{
+  display: inline-flex;
+}
+```
+
+ Webkit 内核的浏览器，必须加上`-webkit`前缀。
+
+```
+.box{
+  display: -webkit-flex; /* Safari */
+  display: flex;
+}
+```
+
+**注意**，设为 Flex 布局以后，子元素的`float`、`clear`和`vertical-align`属性将失效。
+
+采用Flex布局的元素，称为**Flex容器**（flex container），它的所有子元素自动成为容器成员，成为**Flex项目**（flex item）。
+
+![]()
+
+容器默认存在两根轴，水平的**主轴**（main axis）和垂直的**交叉轴**（cross axis）。
+
+
+
+
+
+
+
+
+
+### 参考资料
+
+《阮一峰的网络日志》

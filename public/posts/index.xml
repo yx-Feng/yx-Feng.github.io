@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Hello, World !</title>
+    <title>Posts on 漂流少年</title>
     <link>https://yx-Feng.github.io/posts/</link>
-    <description>Recent content in Posts on Hello, World !</description>
+    <description>Recent content in Posts on 漂流少年</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Tue, 11 Apr 2023 14:38:50 +0800</lastBuildDate><atom:link href="https://yx-Feng.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
@@ -13,7 +13,7 @@
       <pubDate>Tue, 11 Apr 2023 14:38:50 +0800</pubDate>
       
       <guid>https://yx-Feng.github.io/posts/react%E9%9D%A2%E8%AF%95%E9%A2%98/</guid>
-      <description></description>
+      <description>1.React的设计思想组件化、数据驱动视图、虚拟DOM 2.JSX是什么3.React的生命周期</description>
     </item>
     
     <item>
@@ -44,30 +44,12 @@
     </item>
     
     <item>
-      <title>Markdown Syntax Guide</title>
-      <link>https://yx-Feng.github.io/posts/markdown-syntax/</link>
-      <pubDate>Wed, 11 Mar 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://yx-Feng.github.io/posts/markdown-syntax/</guid>
-      <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
       <title>Rich Content</title>
       <link>https://yx-Feng.github.io/posts/rich-content/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
       
       <guid>https://yx-Feng.github.io/posts/rich-content/</guid>
       <description>&lt;p&gt;Hugo ships with several &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugos-built-in-shortcodes&#34; target=&#34;_blank&#34;&gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34; target=&#34;_blank&#34;&gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Placeholder Text</title>
-      <link>https://yx-Feng.github.io/posts/placeholder-text/</link>
-      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://yx-Feng.github.io/posts/placeholder-text/</guid>
-      <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
     </item>
     
     <item>
