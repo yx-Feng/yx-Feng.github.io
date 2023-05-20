@@ -8,7 +8,7 @@ draft: false
 
 所有HTML元素都可以看作盒子。它包括：margin(外边距)、border(边框)、padding(内边距)、content(内容)。
 
-![]()
+![](/images/box_model.png)
 
 根据 W3C 的规范，元素的width、height属性只包含content，不包括padding和border。
 
