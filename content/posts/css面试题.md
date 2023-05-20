@@ -8,8 +8,6 @@ draft: false
 
 所有HTML元素都可以看作盒子。它包括：margin(外边距)、border(边框)、padding(内边距)、content(内容)。
 
-box_model.png
-
 ![](/images/box_model.png)
 
 根据 W3C 的规范，元素的width、height属性只包含content，不包括padding和border。
@@ -67,7 +65,7 @@ Flex是Flexible Box的缩写，意为弹性布局，用来为盒状模型提供�
 
 采用Flex布局的元素，称为**Flex容器**（flex container），它的所有子元素自动成为容器成员，成为**Flex项目**（flex item）。
 
-![]()
+![](/images/flex.png)
 
 容器默认存在两根轴，水平的**主轴**（main axis）和垂直的**交叉轴**（cross axis）。
 
@@ -83,7 +81,7 @@ Flex是Flexible Box的缩写，意为弹性布局，用来为盒状模型提供�
 
 - column-reverse: 主轴为垂直方向，起点在下端
 
-![]()
+![](/images/flex-direction.png)
 
 **flex-wrap**: 默认项目都排在一条线上，flex-wrap属性定义，如果一条轴线排不下，如何换行。
 
