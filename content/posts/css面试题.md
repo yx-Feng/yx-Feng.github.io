@@ -8,7 +8,7 @@ draft: false
 
 所有HTML元素都可以看作盒子。它包括：margin(外边距)、border(边框)、padding(内边距)、content(内容)。
 
-<img src="assets/box_model.png" title="" alt="box_model.png" width="382">
+![]()
 
 根据 W3C 的规范，元素的width、height属性只包含content，不包括padding和border。
 
@@ -81,7 +81,7 @@ Flex是Flexible Box的缩写，意为弹性布局，用来为盒状模型提供�
 
 - column-reverse: 主轴为垂直方向，起点在下端
 
-<img src="assets/b80cac62570d15b91e9e8c3aa33cf1f27596d410.png" title="" alt="flex-direction.png" width="498">
+![]()
 
 **flex-wrap**: 默认项目都排在一条线上，flex-wrap属性定义，如果一条轴线排不下，如何换行。
 
